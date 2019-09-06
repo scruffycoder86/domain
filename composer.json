@@ -1,0 +1,19 @@
+{
+    "name": "oblivion/domain",
+    "description": "Domain Classes and Contracts for our Business Model",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luyanda Siko",
+            "email": "sikoluyanda@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Oblivion\\Domain\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
